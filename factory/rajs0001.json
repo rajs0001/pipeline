@@ -1,0 +1,9 @@
+{
+	"name": "rajs0001",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "43501094-99e9-412f-bf04-73db2c937c13",
+		"tenantId": "82ea4ec1-9c2f-4c64-8b34-65738800d7e1"
+	}
+}
