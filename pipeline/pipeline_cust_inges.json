@@ -50,13 +50,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "customer_src",
+						"referenceName": "DelimitedText_customer",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "customer_tgt",
+						"referenceName": "DelimitedText_customer",
 						"type": "DatasetReference"
 					}
 				]
